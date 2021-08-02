@@ -3,7 +3,9 @@ Predicting the functionality of non-coding DNA sequences
 
 Data can be found here https://drive.google.com/u/0/uc?id=1wPj4M2a_fWqyV9HKUtycKd6dzvrgNeBb&export=download
 
-This work is inspired by the efforts to predict the functionality of non-coding DNA sequences done by Yu Li at the Chinese Univeristy of Hong Kong (github.com/liyu95)
+This work is inspired by the efforts to predict the functionality of non-coding DNA sequences done by Yu Li at the Chinese Univeristy of Hong Kong 
+
+Li, Y., Huang, C., Ding, L., Li, Z., Pan, Y., & Gao, X. (2019). Deep learning in bioinformatics: Introduction, application, and perspective in the big data era. Methods, 166, 4-21.
 
 ## CCN Primer
 
